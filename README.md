@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Artificial+Intelligence+Developer;Computer+Vision%2C+ML+and+Robotics;Social+Entrepreneur"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Artificial+Intelligence+Developer;Computer+Vision%2C+ML+and+Robotics;Social+Entrepreneur"></a>
 </p>
 
 <p align="center">
