@@ -84,24 +84,13 @@
 <ul>
 
 <div id="badges">
-  <a href="https://twitter.com/GaganSuie">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  <a href="https://www.linkedin.com/in/gagansuie/">
+  <a href="https://www.linkedin.com/in/adri%C3%A1n-gonz%C3%A1lez-ortega-61300519a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.gg/CodeCrow">
+  <a href="https://discord.gg/zdidi22.">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://www.twitch.tv/gagansuie">
-    <img src="https://img.shields.io/badge/Twitch-7b52f3?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-  </a>  
-  <a href="https://kick.com/gagansuie">
-    <img src="https://img.shields.io/badge/Kick-47c919?style=for-the-badge&logo=kick&logoColor=white" alt="Kick Badge"/>
-  </a>  
-  <a href="https://www.tiktok.com/@gagansuie">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@gagansuie">
+  <a href="https://www.youtube.com/@skullkyAI">
     <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
@@ -114,33 +103,6 @@
 <br><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 <br>
 ---
-
----
-
-### 🤝 Connect with me :
-
-<div id="badges">
-  <a href="https://twitter.com/GaganSuie">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  <a href="https://www.linkedin.com/in/gagansuie/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://discord.gg/CodeCrow">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://www.twitch.tv/gagansuie">
-    <img src="https://img.shields.io/badge/Twitch-7b52f3?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-  </a>  
-  <a href="https://kick.com/gagansuie">
-    <img src="https://img.shields.io/badge/Kick-47c919?style=for-the-badge&logo=kick&logoColor=white" alt="Kick Badge"/>
-  </a>  
-  <a href="https://www.tiktok.com/@gagansuie">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@gagansuie">
-    <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-</div>
 
 ---
 
