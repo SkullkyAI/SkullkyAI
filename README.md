@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi everyone, I'm <a href="https://github.com/Carolbg28">Adrián González<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1> 
+<h1 align="center"><b>Hi everyone, I'm <a href="https://github.com/skullkyAI">Adrian Gonzalez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1> 
  
 <br>
 
