@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/skullky"><img src="https://img.buymeacoffee.com/button-api/?text=Help me grow&emoji=🙋‍♀️&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/skullky"><img src="https://img.buymeacoffee.com/button-api/?text=Help me grow&emoji=🫡&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	
