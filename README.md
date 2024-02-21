@@ -20,10 +20,10 @@
 <br>
 
 - :school: I am a `Junior` at [Computer Engineering](https://www.uab.cat/web/estudiar/llistat-de-graus/informacio-general/enginyeria-informatica-1216708251447.html?param1=1263367146646) at [Barcelona Autonomous University](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :technologist: I love using AI as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science`
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAFKbvTDFBg/3qz8i2SpDsdKqNtabUq8eg/edit?utm_content=DAFKbvTDFBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1UGuctOkOlQx3jPuhj2CuRmboG5YdFVgZ/view?usp=drive_link).
 
 <br>
 
